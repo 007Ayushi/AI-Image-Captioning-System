@@ -61,3 +61,4 @@ BLIP Transformer model processes image
 AI generates contextual caption
 Backend sends generated caption back to frontend
 Frontend displays caption to user
+

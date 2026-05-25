@@ -52,3 +52,12 @@ AI-Image-Captioning-System/
 │
 ├── .gitignore
 ├── README.md
+
+
+🧠 How It Works
+User uploads an image through the React frontend
+Frontend sends image to Flask backend
+BLIP Transformer model processes image
+AI generates contextual caption
+Backend sends generated caption back to frontend
+Frontend displays caption to user
